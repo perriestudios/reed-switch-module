@@ -1,0 +1,89 @@
+Change Component Footprint: Designator=R2 Old Footprint=68R 0603 New Footprint=10k R0603
+Change Component Footprint: Designator=SW1 Old Footprint=TECO-1825910-6_V New Footprint=Littelfuse_MDSR-4_MFG
+Change Component Comment : Designator=R2 Old Comment=68R New Comment=10k
+Change Component Comment : Designator=SW1 Old Comment=1825910-6 New Comment=MDSR-4-12-23
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9D672B88-308C-4BE1-ABC8-14BA635D9EFE New ItemGUID= Old RevisionGUID=1A7C09F2-A786-4D53-8E36-0B0D6FD96266 New RevisionGUID=
+Change component parameters: Designator = "R2" ("R2"); Footprint = "68R 0603"; UniqueID = "\EADPPASX" ("\EADPPASX")
+Change component parameters (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2530/eng-cd-1622829-ba-2530062.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2530/eng-cd-1622829-ba-2530062.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ELV"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CRG0603F10K/10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Resistors"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0.10000, 10=0.03100, 100=0.01270, 1000=0.00570, 2500=0.00494, 5000=0.00409 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "172089"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A121523CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "TECO-1825910-6_V"; UniqueID = "\IVNAOOXY" ("\IVNAOOXY")
+Added Component: Designator=R3(68R 0603)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=9-1773463-9&amp;DocType=DS&amp;DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=9-1773463-9&amp;DocType=DS&amp;DocLang=English&src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRGP0603F68R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.14000, 10=0.11400, 100=0.04470, 1000=0.01870, 2500=0.01714 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "68R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "49308"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A130402CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J1-4
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=R3-1
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=J1-3
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=SW1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-2
+Added Net: Name=NetD2_2
+Added Class: Name=Reed_Switch_Vertical_v1.0
+Added Room: Name=Reed_Switch_Vertical_v1.0
